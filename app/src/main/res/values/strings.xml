@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Class Work Two</string>
+    <string name="add">Add</string>
+    <string name="print_on_textview">print on TextView</string>
+    <string name="print_something">print something</string>
+    <string name="text_view">Text View</string>
+</resources>
